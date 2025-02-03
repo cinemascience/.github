@@ -1,4 +1,4 @@
-# Cinema Toolkit, v2.0 (October  2021)
+# Cinema Toolkit, v2.0
 
 The Cinema toolkit has been developed by Los Alamos National Laboratory, as part
 of the [Cinema Project](http://cinemascience.org). 
